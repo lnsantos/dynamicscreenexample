@@ -1,18 +1,18 @@
 {
   "data": [
     {
-      "index": 0,
+      "index": 2,
       "type": "TAB",
       "metadata": "{\n \"title\": \"Example\",\n \"data\":[\n{\n \"id\": 12,\n \"name\": \"Lucas\" \n},\n{\n \"id\": 13,\n \"name\": \"Pedro\" \n},\n{\n \"id\": 2,\n \"name\": \"Julio\" \n}\n]\n}"
 
     },
     {
-      "index": 2,
+      "index": 3,
       "type": "NAME",
       "metadata": "Example name"
     },
     {
-      "index": 3,
+      "index": 1,
       "type": "NAME",
       "metadata": "Example 2"
     }
